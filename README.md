@@ -1,5 +1,11 @@
 # bladeSynth
 A High-Quality Rendering-Based  Synthetic Dataset for Aero Engine Blade Defect  Inspection
+
+[![Paper](https://img.shields.io/badge/Paper-Scientific%20data-blue)](https://www.nature.com/articles/s41597-025-05563-y)
+
+[![Data](https://img.shields.io/badge/Dataset-Figshare-red)](https://doi.org/10.6084/m9.figshare.28658603)
+
+
 <img width="1497" height="709" alt="blade_images" src="https://github.com/user-attachments/assets/5768390f-50f6-4a56-bd60-0d5c2a9c22b0" />
 
 
