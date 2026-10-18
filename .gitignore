@@ -1,0 +1,8 @@
+# Rendered datasets
+output/
+
+# Blender backups and Python caches
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
